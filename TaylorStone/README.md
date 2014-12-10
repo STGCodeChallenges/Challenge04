@@ -2,6 +2,6 @@
 
 Instructions:
  - Run script using python 3.x
- - Enter a math expression that uses valid operators +, -, /, *, **, ^, (, and )
+ - Enter a math expression that uses valid operators +, -, /, \*, \*\*, ^, (, and )
  - ???
  - Profit!
