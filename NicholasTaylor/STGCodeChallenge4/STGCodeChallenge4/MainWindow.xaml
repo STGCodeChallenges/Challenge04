@@ -1,0 +1,14 @@
+﻿<Window x:Class="STGCodeChallenge4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label Content="Enter your expression here: " HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="29" Width="156"/>
+        <TextBox Name="txtExpression" Margin="181,10,10,0" TextWrapping="Wrap" Text="TextBox" Height="29" VerticalAlignment="Top"/>
+        <Button Content="Process Expression" HorizontalAlignment="Left" Margin="162,44,0,0" VerticalAlignment="Top" Width="180" Click="Button_Click_1" Height="36"/>
+        <Label Content="Value Processed with Option 1= " HorizontalAlignment="Left" Margin="34,136,0,0" VerticalAlignment="Top"/>
+        <Label Name="lblDynamicFinalValue" Content="" HorizontalAlignment="Left" TextBlock.FontSize="36px" Margin="222,120,0,0" VerticalAlignment="Top" Width="122" Height="61"/>
+        <Label Content="Value Processed with Option 2= " HorizontalAlignment="Left" Margin="34,218,0,0" VerticalAlignment="Top"/>
+        <Label Name="lblShuntingYardFinalValue" Content="" HorizontalAlignment="Left" TextBlock.FontSize="36px" Margin="222,198,0,0" VerticalAlignment="Top" Width="122" Height="61"/>
+    </Grid>
+</Window>
