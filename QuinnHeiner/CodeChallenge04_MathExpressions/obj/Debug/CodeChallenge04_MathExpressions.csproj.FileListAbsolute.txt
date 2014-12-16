@@ -1,0 +1,12 @@
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge04_MathExpressions\bin\Debug\CodeChallenge04_MathExpressions.exe.config
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge04_MathExpressions\bin\Debug\CodeChallenge04_MathExpressions.exe
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge04_MathExpressions\bin\Debug\CodeChallenge04_MathExpressions.pdb
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge04_MathExpressions\obj\Debug\CodeChallenge04_MathExpressions.csprojResolveAssemblyReference.cache
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge04_MathExpressions\obj\Debug\CodeChallenge04_MathExpressions.exe
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge04_MathExpressions\obj\Debug\CodeChallenge04_MathExpressions.pdb
+C:\Users\Quinn Heiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge04_MathExpressions\bin\Debug\CodeChallenge04_MathExpressions.exe.config
+C:\Users\Quinn Heiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge04_MathExpressions\obj\Debug\CodeChallenge04_MathExpressions.exe
+C:\Users\Quinn Heiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge04_MathExpressions\obj\Debug\CodeChallenge04_MathExpressions.pdb
+C:\Users\Quinn Heiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge04_MathExpressions\bin\Debug\CodeChallenge04_MathExpressions.exe
+C:\Users\Quinn Heiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge04_MathExpressions\bin\Debug\CodeChallenge04_MathExpressions.pdb
+C:\Users\Quinn Heiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge04_MathExpressions\obj\Debug\CodeChallenge04_MathExpressions.csprojResolveAssemblyReference.cache
